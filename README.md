@@ -1,6 +1,23 @@
+# Calculator Using HTML, CSS, and JavaScript 💻🧮
 
-**Project Name - Calculator Using HTML,CSS,JAVASCRIPT With Creative UI.**
+I’m excited to share a project I’ve been working on — a **Digital Calculator** with a creative and user-friendly UI.
 
-I’m excited to share with you a project I’ve been working on: a digital calculator. This may seem like a simple tool, but it represents a significant step in my journey as a web developer. To build this calculator, I utilized the power of three core technologies: HTML, CSS, and JavaScript. HTML provided the structural foundation, defining the layout and content of the calculator. CSS, on the other hand, added the visual appeal, styling the buttons, display, and overall appearance. The real magic, however, lies in JavaScript. This dynamic language brought the calculator to life, enabling it to perform calculations, update the display, and respond to user input. Designed and developed a calculator with a user-centric UI.
+While it may seem like a simple tool, this calculator represents a big milestone in my web development journey. It was built using three core web technologies:
 
+- **HTML** – to create the structure and layout of the calculator.
+- **CSS** – to design a visually appealing, modern, and responsive UI.
+- **JavaScript** – to bring interactivity and logic to life by handling user input and performing calculations.
 
+### ✨ Highlights
+- Fully functional calculator with basic arithmetic operations.
+- Creative, clean, and user-centric UI design.
+- Real-time display updates and button interactions.
+
+### 📁 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+Feel free to check it out, test it, and share your feedback! 😊
